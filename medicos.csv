@@ -1,0 +1,141 @@
+codigo_medico,nombre,especialidad,anio_ingreso,jefe_servicio,horas_contrato
+M001,Guillermo Bustos,MEDICINA INTERNA,1994,sí,44
+M002,Fernanda Pizarro,Medicina interna,1996,no,33
+M003,Cristián Bravo,Medicina interna,1998,no,44
+M004,Tomás Aguilera,Medicina interna,1998,no,22
+M005,Trinidad Salazar,Medicina interna,1998,no,22
+M006,Gonzalo Carrasco,Med. Interna,1998,no,22
+M007,Sebastián Sepúlveda,Med. Interna,1999,no,44
+M008,Camila Figueroa,Medicina interna,1999,no,44
+M009,Isidora Flores,Medicina interna,2000,no,44
+M010,Nicolás Rojas,Medicina interna,2001,no,22
+M011,Camila Salazar,Medicina interna,2003,no,44
+M012,Nicolás Rivera,Medicina interna,2003,no,22
+M013,Valeria Figueroa,Medicina interna,2005,no,33
+M014,Sebastián Pizarro,Med. Interna,2005,no,22
+M015,Antonia Rojas,MEDICINA INTERNA,2005,no,44
+M016,Daniela Castillo,Med. Interna,2006,no,44
+M017,Rodrigo Riquelme,Medicina interna,2008,no,44
+M018,Carolina Sánchez,Medicina interna,2009,no,22
+M019,María José Díaz,Med. Interna,2010,no,22
+M020,Fernanda Flores,Medicina interna,2013,no,33
+M021,Carolina Molina,Med. Interna,2015,no,44
+M022,Felipe Aguilera,Medicina interna,2016,no,44
+M023,Felipe Sandoval,Med. Interna,2016,no,33
+M024,José Rojas,Medicina interna,2018,no,44
+M025,Tomás Vera,Medicina interna,2024,no,33
+M026,Paula Vera,MEDICINA INTERNA,2025,no,33
+M027,Javiera Cáceres,Cardio,1996,sí,22
+M028,Eduardo Silva,Cardio,1997,no,44
+M029,Bárbara Herrera,Cardiología,1999,no,22
+M030,Nicolás Ramírez,Cardiología,1999,no,22
+M031,Cristián Núñez,Cardiología,1999,no,44
+M032,Gonzalo Sandoval,Cardiología,2002,no,44
+M033,Bárbara Cárdenas,Cardiología,2002,no,33
+M034,Diego Fuentes,Cardiología,2006,no,44
+M035,Sebastián Castillo,Cardiología,2010,no,33
+M036,Felipe Figueroa,Cardio,2011,no,44
+M037,José Torres,CARDIOLOGÍA,2018,no,33
+M038,Tomás Sepúlveda,Cardiología,2020,no,33
+M039,Trinidad Jara,Cardio,2023,no,33
+M040,Javiera Muñoz,Neurología,1994,sí,22
+M041,Ignacio Rodríguez,Neurología,1995,no,44
+M042,Constanza Sánchez,Neurología,1998,no,33
+M043,Bárbara Rojas,NEUROLOGÍA,2001,no,33
+M044,Catalina Castro,Neurología,2001,no,44
+M045,Felipe Sepúlveda,Neuro,2006,no,22
+M046,Rodrigo Pérez,Neuro,2007,no,22
+M047,Bárbara Valenzuela,Neurología,2020,no,44
+M048,Matías Vergara,Neurología,2025,no,33
+M049,Daniela Álvarez,Cirugía general,1996,sí,44
+M050,Felipe Sepúlveda,Cir. General,1996,no,44
+M051,Diego Jara,Cirugía general,1998,no,44
+M052,Sebastián Reyes,Cirugía general,1999,no,44
+M053,Valeria Rojas,CIRUGÍA GENERAL,2001,no,33
+M054,María José Núñez,Cirugía general,2003,no,22
+M055,Nicolás Vásquez,Cirugía general,2005,no,33
+M056,Rafael González,Cirugía general,2006,no,22
+M057,María José Cortés,Cir. General,2007,no,22
+M058,Mauricio Pizarro,Cirugía general,2008,no,33
+M059,Matías Araya,Cir. General,2009,no,44
+M060,Francisca Molina,Cirugía general,2010,no,44
+M061,Antonia Rivera,Cirugía general,2011,no,33
+M062,Daniela Díaz,Cirugía general,2011,no,44
+M063,Natalia Rivera,Cirugía general,2012,no,22
+M064,Felipe Cáceres,Cirugía general,2013,no,22
+M065,Diego Sepúlveda,CIRUGÍA GENERAL,2013,no,44
+M066,Constanza Muñoz,Cir. General,2016,no,33
+M067,Eduardo Tapia,CIRUGÍA GENERAL,2017,no,44
+M068,Macarena Reyes,CIRUGÍA GENERAL,2019,no,33
+M069,Constanza Castro,Cirugía general,2021,no,22
+M070,Matías Valenzuela,Cirugía general,2022,no,22
+M071,Ignacio Reyes,Cirugía general,2023,no,22
+M072,Pablo Sepúlveda,Cirugía general,2024,no,33
+M073,Rafael Pérez,Traumatología,1996,sí,22
+M074,Catalina Espinoza,Traumatología,1996,no,44
+M075,Eduardo Jara,Traumatología,1998,no,44
+M076,Felipe Soto,Traumatología,1998,no,44
+M077,Tomás Sánchez,Traumatología,2002,no,33
+M078,Verónica Sánchez,Traumatología,2005,no,22
+M079,Francisca Cárdenas,Traumatología,2006,no,22
+M080,Camila Pizarro,TRAUMATOLOGÍA,2006,no,33
+M081,Paula Bravo,Traumatología,2008,no,22
+M082,Jorge Reyes,Traumatología,2009,no,33
+M083,Javiera Araya,Traumatología,2009,no,22
+M084,Gonzalo Espinoza,Traumatología,2010,no,22
+M085,Macarena Cárdenas,Traumatología,2011,no,44
+M086,Rafael Rodríguez,Traumatología,2012,no,33
+M087,Daniela Espinoza,Traumatología,2013,no,44
+M088,Isidora Fernández,Traumatología,2016,no,22
+M089,Andrés Soto,Traumatología,2016,no,33
+M090,Mauricio Álvarez,Traumatología,2018,no,44
+M091,Gonzalo Núñez,Trauma,2020,no,33
+M092,Gonzalo Torres,Traumatología,2023,no,44
+M093,Paula Sepúlveda,Traumatología,2023,no,22
+M094,Fernanda Aguilera,Traumatología,2023,no,44
+M095,Camila Castillo,Urología,1998,sí,22
+M096,Francisca Vergara,Urología,2000,no,33
+M097,Tomás Espinoza,Urología,2002,no,44
+M098,Constanza Muñoz,Urología,2007,no,33
+M099,José Sepúlveda,Urología,2008,no,44
+M100,Mauricio Ramírez,Uro,2010,no,22
+M101,Nicolás Castillo,UROLOGÍA,2010,no,44
+M102,Francisca Torres,UROLOGÍA,2011,no,44
+M103,Mauricio Castro,Urología,2022,no,44
+M104,María José Núñez,Urología,2023,no,33
+M105,Pablo Flores,Gastroenterología,1994,sí,22
+M106,José Rojas,Gastroenterología,1994,no,33
+M107,Francisca Espinoza,Gastro,1996,no,33
+M108,Rodrigo Cárdenas,Gastroenterología,1999,no,22
+M109,Francisca Sepúlveda,Gastroenterología,2001,no,22
+M110,Felipe Salazar,GASTROENTEROLOGÍA,2006,no,22
+M111,Fernanda Martínez,Gastroenterología,2008,no,44
+M112,Felipe Bravo,Gastroenterología,2013,no,22
+M113,Sebastián Muñoz,Gastroenterología,2019,no,22
+M114,Javiera Torres,GINECOLOGÍA,1994,sí,22
+M115,Mauricio Núñez,Ginecología,1994,no,22
+M116,Nicolás Espinoza,Ginecología,1996,no,22
+M117,María José Orellana,Ginecología,2002,no,44
+M118,Valeria Rojas,Gine,2002,no,44
+M119,Camila Núñez,Ginecología,2004,no,33
+M120,Isidora Cáceres,Gine,2004,no,22
+M121,Matías Torres,Ginecología,2009,no,22
+M122,Daniela Orellana,Ginecología,2010,no,33
+M123,Antonia Figueroa,Ginecología,2013,no,33
+M124,Sebastián Sepúlveda,Gine,2014,no,44
+M125,Alejandro Herrera,GINECOLOGÍA,2016,no,44
+M126,Alejandro Espinoza,Ginecología,2019,no,44
+M127,Isidora Castillo,Ginecología,2021,no,44
+M128,Isidora Jara,CIRUGÍA CARDIOVASCULAR,2005,sí,22
+M129,Felipe Jara,Cirugía cardiovascular,2008,no,22
+M130,Macarena López,Cirugía cardiovascular,2008,no,22
+M131,José Sánchez,Cirugía cardiovascular,2010,no,22
+M132,Valeria Díaz,Cirugía cardiovascular,2018,no,44
+M133,Daniela Morales,Cirugía cardiovascular,2025,no,22
+M134,Antonia Álvarez,Neurocirugía,1996,sí,33
+M135,Cristián Hernández,Neurocirugía,1996,no,44
+M136,Matías Torres,Neurocx,1996,no,33
+M137,Fernanda Tapia,Neurocirugía,1996,no,22
+M138,Antonia Espinoza,Neurocirugía,1998,no,33
+M139,Gonzalo Molina,Neurocirugía,2005,no,44
+M140,María José Hernández,Neurocirugía,2019,no,33
